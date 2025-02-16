@@ -1,4 +1,4 @@
-### FAQ Accordion
+# FAQ Accordion
 
 This project is my first JavaScript challenge at [Frontend Mentor](https://www.frontendmentor.io).
 
